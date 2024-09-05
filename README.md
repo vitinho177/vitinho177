@@ -1,4 +1,10 @@
-## Hi there 👋
+Boas vindas ao meu perfil 
+ Oi meu nome é Victor Gabriel 
+Estou na alura 
+Estou me desenvolvendo na linguagem javaScript
+ultiliso este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+você pode entrar em contato comigo 
+00001110153648sp@al.educacaco.sp.gov.br
 
 <!--
 **vitinho177/vitinho177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
